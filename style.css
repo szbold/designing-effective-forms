@@ -1,3 +1,8 @@
 .modal {
     background: #c6d0ff7a;
 }
+
+.mb-3 {
+    display: inline-block;
+    width: 100%;
+}
